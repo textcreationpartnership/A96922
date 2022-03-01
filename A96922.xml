@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord of seasonable and sound counsell laid down in severall proposals, which takes in very much of the sense and agreement of the good people of these nations, both touching the work, and touching the sutable work-men thereunto, which the wonderful appearance and providences of the righteous Lord, seemes to point at in this our day. Humbly tendered and presented unto those that are in eminent place in this juncture of affaires, both in a civill and in a military capacity. / By divers well affected persons to the general peace, prosperity and liberty of these nations, inhabiting in and about the city of Westminster. As an essay in order to a well grounded vnity, peace, and settlement, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96922</idno>
+            <idno type="STC">Wing W3562</idno>
+            <idno type="STC">Thomason 669.f.22[9]</idno>
+            <idno type="STC">ESTC R211336</idno>
+            <idno type="EEBO-CITATION">99870066</idno>
+            <idno type="PROQUEST">99870066</idno>
+            <idno type="VID">163591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163591)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord of seasonable and sound counsell laid down in severall proposals, which takes in very much of the sense and agreement of the good people of these nations, both touching the work, and touching the sutable work-men thereunto, which the wonderful appearance and providences of the righteous Lord, seemes to point at in this our day. Humbly tendered and presented unto those that are in eminent place in this juncture of affaires, both in a civill and in a military capacity. / By divers well affected persons to the general peace, prosperity and liberty of these nations, inhabiting in and about the city of Westminster. As an essay in order to a well grounded vnity, peace, and settlement, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith, and are to be sold at his shop, at the Elephant and Castle near Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and politics --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163591:1" rendition="simple:additions"/>
+            <head>
+               <hi>VVord of ſeaſonable and ſound Counſell,</hi> Laid down in ſeverall <hi>Propoſals,</hi> which takes in very much of the Senſe and Agreement of the good People of theſe Nations, both touching the Work, and touching the ſutable Work-men thereunto, which the wonderful Appearance and Providences of the Righteous Lord, ſeemes to Point at in this our day.</head>
+            <head type="sub">Humbly Tendered and Preſented unto thoſe that are in eminent Place in this juncture of Affaires, both in a Civill and in a Military Capacity. By divers well Affected perſons to the general Peace, Proſperity and Liberty of theſe Nations; Inhabiting in and about the City of <hi>Weſtminſter.</hi>
+            </head>
+            <head type="sub">As an <hi>Eſſay</hi> in order to a well grounded Vnity, Peace, and Settlement, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. FIrſt, It is humbly propoſed, That you would ſo ſet the Lord of Hoſts before your eyes, who hath very eminently appeared in your ſight all along, on the behalf of his People, and that good and righteous Cauſe, that hath been ſtill on your hearts to travel with, that you may ſtand in awe of his Majeſty, and walk in his fear all the day long, yea all the dayes of your lives, and ſo in his fear as not at any time, to ſtep before him, ſtart aſide from him, or ſtay behind him, but to adhear unto him, and to follow him both cloſely and fully.</p>
+            <p n="2">2. Secondly, That you would in his fear diligently ſearch and try your hearts and wayes, to the end you may find out, what hath been your great Evils, and Miſ<g ref="char:EOLhyphen"/>carriages &amp; unſutable behavour before his Majeſty, in reference either to ſelf-ſeeking, treacherous dealing, covenant breaking, or ſuch like Provocations whether hereto<g ref="char:EOLhyphen"/>fore or in this late hour of temptation. And having found out what is amiſſe in any of theſe reſpects, that you would humble your ſouls before the Lord of Hoſts for the ſame, give glory to him, and take ſhame to your ſelves, if perhaps your Provocations may be forgiven you, ſo as further to delight to make uſe of you in carring on thoſe great and glorious deſignes of his, which undoubtedly he is about to effect (and that according to Prophecies) in theſe laſt dayes of the world, in which we live.</p>
+            <p n="3">3. Thirdly, That having done thus, you that have the fear of the Lord and his goodneſs upon your hearts, and favour that righteous Cauſe that he and his People have appeared in, that you, we ſay, laying aſide all ſelf-ſeeking, animoſity and Prejudice, would endeavour in a peaceable and friendly uniting each to other, and as one man in this juncture of time, to improve your wiſdome and intereſt the utmoſt, to Prevent the great deſign of your grand Adverſary, which is to divide and deſtroy both you and us: And that you will ſeek to effect this by a ſpeedy, unanimous, and vigorous reſolving upon ſuch things, as tends to the uniting the hearts of, the honeſt party in theſe Nations and to the bringing forth thoſe good things, which takes in the common juſt concernments of all men, &amp; have been ſo much Pretended to, &amp; ſo often decla<g ref="char:EOLhyphen"/>red for; which being effected, cannot fail to be accompanied with ſuch a Preſence and bleſſing from the Lord, and with ſuch a common concurrance of all unbyaſed men, as will undoubtedly ſecure yourſelves and theſe Nations from ſuch hazards, as in ſuch a Poſture as this they are every moment expoſed unto, and to exalt them above other Nations, in the injoyment of abundance of Peace, Proſperity and Liberty.</p>
+            <list>
+               <head>The things humbly tendered, as meet to be by you in the fear of the Lord ſpeedily reſolued upon, and in his ſtrength (in this juncture of Affaires) unanimouſly and vigorouſly Proſecuted, in order to attain the end before ſpecified, are as followeth.</head>
+               <item>1. Firſt, Let it be in the fear of the Lord reſolved; That ſingular care ſhall be taken from time to time, that the Arrears of the poor Souldiers, the Pentions of the poor Pentioners, and the Publick faith debts, of the poor Creditors of theſe Nations, (whoſe ſtraights preſſeth them ſore, and makes them to ſigh, and whoſe ſighs and cryes goes up unto Heaven, and will have their returns) may be ſpeedily and out of the firſt receipts diſcharged and cleared.</item>
+               <item>2. Secondly, That ſingular care ſhall be taken from time to time, that the poor in general thorowout theſe Nations, which are very numerous now, (by reaſon of the decay of Trade, and other wayes) may be ſo provided for, and in ſuch ſort, that all the Impotent may be releived, and all the able may be imployed.</item>
+               <item>3. Thirdly, That there ſhall be a ſpeedy and effectual courſe taken to rectifie the Laws, and the male-Adminiſtration thereof, by bringing them into a Breif, Plain, and eaſie Method and Form; and as neer the Laws of that famous Common-wealth of Iſrael, as the nature and Conſtitution of a Gentile State (under the preſent diſpen<g ref="char:EOLhyphen"/>ſation of light and grace) will admit; and ſo, that as much ſtrife and contention between man and man as may be, might be prevented, and what by ſuch a Proviſion cannot be prevented, might be with as much eaſe and ſpeed, and with as little expence of Money and irritation of ſpirit as may be, fully redreſſed, ſo that loving kind<g ref="char:EOLhyphen"/>neſs, judgment and righteouſneſs, which the righteous Lord himſelf delights to be exerciſed in on the earth, may be found and felt in our Land, to the great content<g ref="char:EOLhyphen"/>ment and rejoycing of the inhabitants thereof.</item>
+               <item>4. Fourthly, That ſingular care ſhall be forthwith taken about that perplexing buſineſs of Tythes, which being continued as now it is, ſtands but as a relict of Mo<g ref="char:EOLhyphen"/>narchy, and as a witneſs againſt theſe Nations, as if they denyed the change of the Prieſt-hood that was under the Law, or that Chriſt Jeſus was come in the fleſh, is al<g ref="char:EOLhyphen"/>ſo a thing that looks, ſo unlike the maintenance of a true Goſpel Miniſtry, and which is as ſome conceive the very fomenter, and nouriſher of a Perſecuting, and impo<g ref="char:EOLhyphen"/>ſing Spirit in theſe Nations; by reaſon whereof, even under the greateſt Profeſſion of liberty, many tender Conſciences have been daily perplexed, and very much of the Land of the Nation hath laine unimproved, which is rendred by many, as a great reaſon of the ſcarceneſs of Corn, which hazards a Famine of times in the Nation.</item>
+               <item>5. Fifthly, That the very much decayed Trade of this Nation, both in theſe famous Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and other Places (ſo univerſally complained of) and by the many ſad effects ſo fully Demonſtrated, may now thorow ſpecial care be forthwith revived, by eaſing the troubleſome and vexatious burdens that lies upon it, and by putting it under a good regulation and Government; That the Seas may be ſo guarded, that being propounded as the ground of the Cuſtomes; that the Trade, Treaſure, and ſtrength of theſe Nations, may not ſo often fall into the hands of the enemies.</item>
+               <item>6. Sixtly, That all the Relicts and Props of corrupt Monarchy, thorowout theſe Nations, which do but wait and ſerve for its return, and have entrencht upon the free-born Peoples Rights, and Liberties upon a Civil account, ſhall be forthwith diligently enquired into, and ſpeedily removed.</item>
+               <item>7. Seventhly, That all the Relicts and Props of Hierchy, thorowout theſe Nations, which do but wait and ſerve for its return, and have entrenched upon the Peoples Rights, and Liberties, upon a Religious account, ſhall be forthwith diligently enquired into, and ſpeedily removed.</item>
+               <item>8. Eightly, That all thoſe horrible corruptions, abuſes, and miſchiefs, which have crept into houſes that have been erected and maintained by free Donation, for Charitable uſes, and alſo all thoſe corruptions and abuſes, that are found in the Priſons thorowout theſe Nations, and eſpecially thoſe of the Kings Bench, the Fleet, New<g ref="char:EOLhyphen"/>gate, and Ludgate, ſhall be forthwith diligently enquired into, and ſpeedily removed.</item>
+               <item>9. Ninthly, That none ſhall be forſt upon any Publick imployment in this Common-wealth againſt his will and conſent, and that whoſoever is imployed from time to time in the management of the affairs thereof, from the higheſt unto the loweſt, ſhall receive out of the publick Revenue, a ſutable recompence and incourage<g ref="char:EOLhyphen"/>ment for his ſervice therein: and then in caſe any ſhall be found taking bribes, either directly, or indirectly, or otherwiſe unfaithful in the truſt committed to him, he ſhall be ſeverely puniſhed, and forthwith caſhiered.</item>
+               <item>10. Tenthly, that ſome ſubſtantial Laws, relating to Liberty and Freedome, both upon a Civil, and upon a Religious account, whereby every man may be preſerved ſafe in his perſon, name and eſtate, from the violence of another, under what pretence ſoever; that ſuch we ſay, may be laid as Fundamentals in the bottome of your Govern<g ref="char:EOLhyphen"/>ment, as that which hath been gotten with ſo much difficulty, and is the price of ſo much bloud and treaſure; Let theſe be known to be as the Laws of the <hi>Meads</hi> and <hi>Perſians,</hi> that cannot be altered, no not by future Repreſentatives; and among other, let this be one; That in caſe any Repreſentive of the people, ſhall preſume by the Major vote to alter or make void theſe or any of theſe firſt Fundamentals, they ſhall be lookt upon as violating the truſt committed to them, and ſuch act and acts of theirs, ſhall be deemed void and null to all intents and purpuſes, as if the ſame had never been, and ſhall be no wayes obleiging upon the conſciences of the good people of theſe three Nations. And moreover, that the perſon, or perſons, that firſt moved therein, ſhall be judged Traitors to the Liberties of the People, and of his Country in the higheſt degree, and proceeded againſt accordingly.</item>
+               <item>11. Eleventhly, That none of the free-born People of theſe Nations, ſhall be arreſted, impriſoned, baniſhed, condemned, or ſentenced to the loſs of Life, Limb, Eſtate, or Liberty, or be any otherwayes moleſted, or diſtreſſed, after a very ſhort time prefixt, but by the lawful Judgment of their Peers, or by vertue of, and according to ſome known, approved, publiſhed Law, or Laws of theſe Nations.</item>
+               <item>12. Laſtly, That for the more certain, ſpeedy and thorow effecting hereof, whereby deeds may demonſtrate, that theſe are not only words, but even reſolves by the finger of God ſet on your hearts; Let men be found out and imployed of a ſutable Spirit to theſe reſolves, with whom you may in the name and fear of the Lord engage and reſolve to ſtand, or fall, live or die together, in a thorow purſute thereof, in order to the putting of all ſorts of men into a better and more flouriſhing capaci<g ref="char:EOLhyphen"/>ty then that wherein now they are; ſo that intereſt may engage them there to remain, and as one man to riſe up and withſtand a return; and in order to enjoy, as in ancient times, their free Repreſentatives; Let the Perſons be according to <hi>Jethro's</hi> Counſel, able men, fearing God, men of truth, hating covetouſneſs, and ſuch as are in a good meaſure freed by the Spirit of the Goſpel, from impoſing upon the conſciences of others, in things that relate to the worſhip and ſervice of God, as having learned by experience, that it is not by might, nor by power, that things of that nature are carried on, and that the wrath of man doth not at all accompliſh the righteouſneſs of God.</item>
+            </list>
+            <p>Thus doing, you will demonſtrate that the Lord of Hoſts, who hath from time to time ſo wonderfully ſaved us, is now indeed become our Judge, our Law-giver, and our King, and that he hath put it into your hearts, to proclaim that faſt which he hath choſen, and ſo much delighted in, thorowout theſe Nations, which is to looſe the bands of wickedneſs, to undo the heavy burdens, to let the oppreſſed go free, and to break every yoak; to deal your bread to the hungry, to bring the poor that are caſt out to your houſe, when you ſee the naked to cover him, and not to hide your ſelves from your own fleſh.</p>
+            <p>Thus doing, you may be ſure, that your light ſhall break forth as the morning, and your health ſhall ſpring forth ſpeedily, and your righteouſneſs ſhall go before you, and the glory of the Lord ſhall be your reerward; ſo ſhall you call and the Lord ſhall anſwer; you ſhall cry, and he ſhall ſay, here I am. Thus your light ſhall riſe in ob<g ref="char:EOLhyphen"/>ſcurity, &amp; your darkneſs be as the noon day, &amp; the Lord ſhall guide you continually and ſatifie your ſoul in drought, and make fat your bones, and you ſhall be like a watered garden, and like a ſpring of water whoſe waters ſhall not fail. Thus doing you ſhall build the old waſte places, and ſhall raiſe up the foundations of many generati<g ref="char:EOLhyphen"/>ons, and be called the Repairers of the breach, and the Reſtorers of paths to dwell in. And thus Judgment ſhall return unto righteouſneſs, and all the upright in heart in theſe Nations ſhall follow it, which that the Lord of Hoſts will graciouſly grant, is and ſhall be the humble, earneſt, and conſtant prayer, and requeſt, of his, and your unworthy Servants, &amp;c.</p>
+            <p>
+               <hi>Conſider what we ſay, and the Lord give you underſtanding and Courage to do his Will.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith,</hi> and are to be ſold at his Shop, at the <hi>Elephant</hi> and <hi>Caſtle</hi> near <hi>Temple-Barre,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
